@@ -1,1 +1,1 @@
-<?php echo "DIFF";
+<?php echo "DIFF updated";
